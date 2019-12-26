@@ -1,12 +1,10 @@
 ## CRUD NODE WITH MYSQL
-
 Create, Read, Update, Delete in used Node, Express and MYSQL and test in Postman.
 
 ## Technologies:
-
-NODE.JS / EXPRESS
-MYSQL
-POSTMAN
+* NODE.JS / EXPRESS
+* MYSQL
+* POSTMAN
 
 ## Launch
 
