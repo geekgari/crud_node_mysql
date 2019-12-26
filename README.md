@@ -1,5 +1,5 @@
 ## CRUD NODE WITH MYSQL
-Create, Read, Update, Delete in used Node, Express and MYSQL and test in Postman.
+Testing all operations on REST API such as Create, Read, Update, and Delete in using Postman. 
 
 ## Technologies:
 * NODE.JS / EXPRESS
