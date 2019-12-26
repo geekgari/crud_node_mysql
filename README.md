@@ -7,7 +7,5 @@ Create, Read, Update, Delete in used Node, Express and MYSQL and test in Postman
 * POSTMAN
 
 ## Launch
-
-To run backend project, install it locally using npm:
-\$ node server.js
-Server is running in localhost:5000
+* To run backend project, install it locally using npm:
+* \$ node server.js . ==> Server is running in localhost:5000
